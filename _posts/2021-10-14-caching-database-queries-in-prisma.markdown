@@ -2,7 +2,8 @@
 layout: post
 title:  "Caching Database Queries In Prisma"
 date:   2021-10-14 1A7:04:45 +0200
-categories: jekyll update
+categories: backend
+excerpt: 'Learn how to cache DB queries using prisma.'
 ---
 
 ### Table Of Contents
