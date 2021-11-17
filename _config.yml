@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 'Tech Blog'
+title: 'Consulting Blog'
 logo: https://jhely.com/assets/img/logo.png
 email: info@jhely.com
 description: >- # this means to ignore newlines until "baseurl:"
